@@ -1,3 +1,3 @@
-#Homework_1
+-Homework_1-
 
-#First Homework for CS3330
+First Homework for CS3330
